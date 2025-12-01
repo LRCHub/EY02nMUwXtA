@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "忘れてやらない",
+  "base_artist": "kessoku band",
+  "createdAt": "2025-12-01T14:16:47.242223Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "忘れてやらない",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/01_忘れてやらない_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "忘れてやらない",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/02_忘れてやらない_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "忘れてやらない (绝不会忘记)",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/03_忘れてやらない_(绝不会忘记)_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "忘れてやらない - Never forget",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/04_忘れてやらない_-_Never_forget_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "忘れてやらない-instrumental-",
+      "artist": "Kessoku Band",
+      "has_synced": false,
+      "path": "select/05_忘れてやらない-instrumental-_Kessoku_Band.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "忘れてやらない",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/06_忘れてやらない_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "忘れてやらない - Never forget",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/07_忘れてやらない_-_Never_forget_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "忘れてやらない",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/08_忘れてやらない_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "忘れてやらない -恒星- Live ver.",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/09_忘れてやらない_-恒星-_Live_ver._kessoku_band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忘れてやらない",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_01_忘れてやらない_結束バンド.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "忘れてやらない",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_02_忘れてやらない_結束バンド.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "忘れてやらない",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_03_忘れてやらない_結束バンド.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "忘れてやらない",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_04_忘れてやらない_結束バンド.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "忘れてやらない",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_05_忘れてやらない_結束バンド.txt"
+    }
+  ]
+}
